@@ -1,5 +1,9 @@
 # `tantalic.com/anybar`
 
+[![codebeat badge](https://codebeat.co/badges/5b7db7c2-5275-438a-adde-bb5248385955)](https://codebeat.co/projects/github-com-tantalic-anybar-master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/tantalic/anybar)](https://goreportcard.com/report/github.com/tantalic/anybar)
+[![GoDoc](https://godoc.org/tantalic.com/anybar?status.svg)](https://godoc.org/tantalic.com/anybar)
+
 A [go][golang] package for interacting with [AnyBar][anybar], a macOS menu bar status indicator application.
 
 The package makes it simple to set the AnyBar icon style:
